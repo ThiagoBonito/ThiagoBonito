@@ -1,7 +1,7 @@
 ### Olá, meu nome é Thiago Torres Bonito 👋
 
 - 🔭 Atuação: Front-End <br>
-- 🌱 Estudando: TypeScript, Angular, Bootstrap, Jquery, Python e SQL Server <br>
+- 🌱 Estudando: TypeScript, Angular, Bootstrap, Jquery, Python, Java e SQL Server <br>
 - 👨‍🎓 Graduação: Aluno do curso de Sistemas de Informação na Universidade Santa Cecília <br>
 - 📫 Contato: bonitothiago@gmail.com
 <div>
