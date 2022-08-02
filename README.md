@@ -12,11 +12,18 @@
   <div style="display: inline_block"><br>
   <img align="center" alt="ThiagoBonito-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="ThiagoBonito-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="ThiagoBonito-React" height="30" width="40" src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor">
   <img align="center" alt="ThiagoBonito-Angular" height="30" width="40" src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor">
-  <img align="center" alt="ThiagoBonito-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="ThiagoBonito-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="ThiagoBonito-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="ThiagoBonito-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="ThiagoBonito-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="ThiagoBonito-sass" height="30" width="40" src="https://icongr.am/devicon/sass-original.svg?size=128&color=currentColor">
+  <img align="center" alt="ThiagoBonito-c#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="ThiagoBonito-Java" height="30" width="40" src="https://icongr.am/devicon/java-original-wordmark.svg?size=128&color=currentColor">
+  <img align="center" alt="ThiagoBonito-PostgreeSQL" height="30" width="40" src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=128&color=currentColor">
   <img align="center" alt="ThiagoBonito-NodeJS" height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor">
+  <img align="center" alt="ThiagoBonito-npm" height="30" width="40" src="https://icongr.am/devicon/npm-original-wordmark.svg?size=128&color=currentColor">
+  <img align="center" alt="ThiagoBonito-Bitbucket" height="30" width="40" src="https://icongr.am/devicon/bitbucket-original-wordmark.svg?size=128&color=currentColor">
+  <img align="center" alt="ThiagoBonito-Slack" height="30" width="40" src="https://icongr.am/devicon/slack-original-wordmark.svg?size=128&color=currentColor">
 </div>
   
 <hr>
