@@ -1,7 +1,6 @@
 ### Olá, meu nome é Thiago Torres Bonito 👋
 
-- 🔭 Atuação: Front-End <br>
-- 🌱 Estudando: ReactTS, Python, Java, Node e SQL Server <br>
+- 🔭 Atuação: Full Stack Developer <br>
 - 👨‍🎓 Graduação: Aluno do curso de Sistemas de Informação na Universidade Santa Cecília <br>
 - 📫 Contato: bonitothiago@gmail.com
 <div>
