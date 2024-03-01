@@ -1,7 +1,7 @@
 ### Olá, meu nome é Thiago Torres Bonito 👋
 
 - 🔭 Atuação: Full Stack Developer <br>
-- 👨‍🎓 Graduação: Aluno do curso de Sistemas de Informação na Universidade Santa Cecília <br>
+- 👨‍🎓 Graduação: Sistemas de Informação na Universidade Santa Cecília <br>
 - 📫 Contato: bonitothiago@gmail.com
 <div>
   <a href="https://github.com/ThiagoBonito">
